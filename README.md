@@ -1,4 +1,4 @@
-# HIV Disparity in Minority Americans---Google Cloud Hackathon
+# HIV Disparity in Minority America---Google Cloud Hackathon
 
 ## Objective
 
