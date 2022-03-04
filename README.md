@@ -1,4 +1,4 @@
-# HIV Disparity in Minority Americans--- Using K-means and Tableau
+# HIV Disparity Analysis in Minority Americans--- Using K-means and Tableau
 
 ## Objective
 
