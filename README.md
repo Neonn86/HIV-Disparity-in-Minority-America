@@ -45,5 +45,7 @@ NYC data comes from https://www1.nyc.gov/site/doh/data/data-sets/hiv-aids-annual
 • Increase the housing funding from HIV-AIDS funding to improve the high infection happening in the Black neighborhoods.
 
 ## Detailed Analysis
-If interested in more detail of analysis, please refer to the blog: https://medium.com/@neoncqbu/americans-are-different-in-hiv-aids-cases-f87501f28112
+If interested in more detail of analysis, please refer to the blog:
+
+https://medium.com/@neoncqbu/americans-are-different-in-hiv-aids-cases-f87501f28112
 
