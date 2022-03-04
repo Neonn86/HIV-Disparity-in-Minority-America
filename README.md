@@ -7,7 +7,9 @@ The goal is to explore the racial disparity and gender disparity existing in the
 ## Data Source
 
 Data can be divided into National scope and NYC scope ranging from 2010 to 2019.
+
 National Data comes from https://data.unicef.org/resources/dataset/hiv-aids-statistical-tables/
+
 NYC data comes from https://www1.nyc.gov/site/doh/data/data-sets/hiv-aids-annual-surveillance-statistics.page
 
 ## Structure
